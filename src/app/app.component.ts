@@ -1,6 +1,10 @@
 import { Component } from '@angular/core';
 
+<<<<<<< HEAD
 @Component({
+=======
+@Component({ 
+>>>>>>> bdfb6b111c7d409dced5fc27d9232d3e04673154
     selector: 'my-app',
     template: `<h1>{{title}}</h1>
     <nav>
@@ -11,5 +15,9 @@ import { Component } from '@angular/core';
     styleUrls: [ './app.component.css' ]
 })
 export class AppComponent {
+<<<<<<< HEAD
     title = 'Tour of Heroes';
+=======
+    title= 'Tour of Heroes';
+>>>>>>> bdfb6b111c7d409dced5fc27d9232d3e04673154
 }
